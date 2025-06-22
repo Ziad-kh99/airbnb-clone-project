@@ -6,6 +6,10 @@
 - **Backend**: Python (Django Rest Framework)
 - **Database**: PostgreSQL
 
+## Database Design:
+- The following ER Diagram represents the initial database design.
+- Link: https://lucid.app/lucidchart/2bd08398-3aee-4630-92d6-95afe31784f9/edit?invitationId=inv_ff773498-04ee-42e0-99eb-cd98d14ac405
+
 ## Team Roles:
 ### Backend Developer:
 - Backend developer implements the core of an app—its algorithms and business logic. 
