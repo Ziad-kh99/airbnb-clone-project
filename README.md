@@ -31,6 +31,9 @@ Features: Make, update, and manage bookings, including check-in and check-out de
 Endpoints: /payments/
 Features: Handle payment transactions related to bookings.
 
+## API Security:
+- In MVP, we I'll provide:
+    1. Authentication/Authorization: to protect users and their data.
 
 ## Team Roles:
 ### Backend Developer:
